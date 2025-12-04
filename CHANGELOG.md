@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/atwallis/test-release-please/compare/v1.2.0...v1.3.0) (2025-12-04)
+
+
+### Features
+
+* add hello world 5 ([96d5cf9](https://github.com/atwallis/test-release-please/commit/96d5cf9eb39962383758b3842208605074111ee0))
+* add hello world 6 ([7ed063f](https://github.com/atwallis/test-release-please/commit/7ed063fc7775bc6a1670fbd36ad3436bfba5e860))
+
 ## [1.2.0](https://github.com/atwallis/test-release-please/compare/v1.1.0...v1.2.0) (2025-12-04)
 
 
