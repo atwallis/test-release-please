@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.0](https://github.com/atwallis/test-release-please/compare/v1.3.0...v1.4.0) (2025-12-04)
+
+
+### Features
+
+* hello world 7 ([8f9aa53](https://github.com/atwallis/test-release-please/commit/8f9aa531c36b154a0b4260c76165d49923c349d3))
+* hello world 7 ([2c5570c](https://github.com/atwallis/test-release-please/commit/2c5570c883248bd7e723a8887b74e4242fc8ec0b))
+* hello world 8 ([c15e4c5](https://github.com/atwallis/test-release-please/commit/c15e4c536a0512acb13fdf62495c4952c3266a93))
+* hello world 8 ([7b1ae94](https://github.com/atwallis/test-release-please/commit/7b1ae94960aeccf54abb145fbcf1953f31e46b6e))
+
 ## [1.3.0](https://github.com/atwallis/test-release-please/compare/v1.2.0...v1.3.0) (2025-12-04)
 
 
